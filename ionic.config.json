@@ -1,0 +1,8 @@
+{
+  "name": "book_service",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "eefe1d59"
+}
